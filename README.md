@@ -12,4 +12,4 @@
 - FireFox 81.0.1 (64-bit)
 - Galaxy S5 360x640 (Vertical & Horizental)
 - iPhone 6/7/8 375x667 (Vertical & Horizental)
-- iPad
+- iPad 2
